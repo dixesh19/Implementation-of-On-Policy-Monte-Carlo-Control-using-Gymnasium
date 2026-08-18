@@ -313,8 +313,8 @@ def print_policy(policy):
         [action_symbols[action] for action in policy]
     ).reshape(4, 4)
 
-    print("Name:          ")
-    print("Register Number:      ")
+    print("Name: DINESH R")
+    print("Register Number:212224240037")
 
     print("\nLearned Policy:")
     print(policy_grid)
